@@ -17,7 +17,7 @@ To run this project locally, you need Python and Jupyter Notebook installed. Fol
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/medical-knn-classifier.git
+    git clone https://github.com/sudikshaacharya1/medical-knn-classifier.git
     cd medical-knn-classifier
     ```
 
